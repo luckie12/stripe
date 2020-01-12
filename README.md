@@ -1,6 +1,7 @@
 # stripeto
 
 > A supreme NUXTJS and STRIPE in the middle man thing
+> Only in DEVELOPMENT BRANCH
 
 ## Build Setup
 
