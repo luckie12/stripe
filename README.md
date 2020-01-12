@@ -1,6 +1,6 @@
 # stripeto
 
-> My supreme Nuxt.js project
+> A supreme NUXTJS and STRIPE in the middle man thing
 
 ## Build Setup
 
